@@ -1,6 +1,6 @@
 # Test 2
 
-Write a psr-4 package to validate excel file format and its data. For this test, you will have to validate two type of excel file `Type_A` and `Type_B`.
+Create an api to validate excel file format and its data. For this test, you will have to validate two type of excel file `Type_A` and `Type_B`.
 
 ## General Rules
 
