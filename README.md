@@ -1,27 +1,8 @@
 # Getting Started
 
 1. Fork this branch
-2. Complete the Test 1 in folder test1
-3. Complete the Test 2 in folder test2
-4. Submit a pull request upon the completion
-
-# Test 1
-
-Write a function as follows:
-- The function takes 2 arguments, a string and an integer
-- Assume that the integer correctly indicates the index position of an open parenthesis "(" inside the given string
-- The function should return an integer, that indicates the index position of the correct corresponding close paren ")" inside the string taking into account nested parenthesized values
-
-You can write the function in PHP.
-
-## Example
-
-If the function receives "a (b c (d e (f) g) h) i (j k)" and 2 as arguments.
-
-nameYourFunction("a (b c (d e (f) g) h) i (j k)", 2); // 2 here indicates the "(" right before "b"
-
-The function should return the index position of the ")" right after "h", in this case, the return value is 20.
-
+2. Complete this in folder test2
+3. Submit a pull request upon the completion
 
 # Test 2
 
