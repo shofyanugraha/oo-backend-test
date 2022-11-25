@@ -1,9 +1,3 @@
-# Getting Started
-
-1. Fork this branch
-2. Complete this in folder test2
-3. Submit a pull request upon the completion
-
 # Test 2
 
 Write a psr-4 package to validate excel file format and its data. For this test, you will have to validate two type of excel file `Type_A` and `Type_B`.
