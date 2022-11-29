@@ -1,4 +1,12 @@
-# Test 2
+# Excel Test
+
+## Preparation 
+Before starting, you will need: 
+- Git - Github/Bitbucket/Gitlab account 
+- Your own dev set up 
+
+Please use following technologies: 
+- Laravel
 
 Create an api to validate excel file format and its data. For this test, you will have to validate two type of excel file `Type_A` and `Type_B`.
 
